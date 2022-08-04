@@ -4,7 +4,7 @@
 
 ### D1
 
-Nothing special yet, just create the Github repo and try to start a new noteboo with some Kaggle dataset i found.
+Nothing special yet, just create the Github repo and try to start a new notebook with some Kaggle dataset i found.
 
 ### D2
 
@@ -13,3 +13,7 @@ Today I used AWS RDS in order to create a database, also I connected to it using
 ### D3
 
 Just plotted some things that i thought it was cool
+
+### D4
+
+I was trying to do some Linear Regressions, not done yet xD

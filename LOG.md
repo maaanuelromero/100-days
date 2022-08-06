@@ -17,3 +17,7 @@ Just plotted some things that i thought it was cool
 ### D4
 
 I was trying to do some Linear Regressions, not done yet xD
+
+### D5
+
+I tried to do a function that tells you if an instagram name is already in use, not working yet :(

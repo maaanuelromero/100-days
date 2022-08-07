@@ -21,3 +21,8 @@ I was trying to do some Linear Regressions, not done yet xD
 ### D5
 
 I tried to do a function that tells you if an instagram name is already in use, not working yet :(
+
+### D6
+
+I noticed that my function won't work because of instagram XD, so I started with other stuff, i connected to the DB using AWS Secrets Manager, this is funny.
+

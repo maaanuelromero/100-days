@@ -3,6 +3,7 @@ import requests
 
 def check_username(username):
     url = "https://www.instagram.com/" + username
+    print("Checking ",url)
     x = requests.get(url)
     if x.status_code == 404:
         return False

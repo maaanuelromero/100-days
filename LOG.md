@@ -25,3 +25,7 @@ I tried to do a function that tells you if an instagram name is already in use, 
 ### D6
 
 I noticed that my function won't work because of instagram XD, so I started with other stuff, i connected to the DB using AWS Secrets Manager, this is funny.
+
+### D7
+
+Plotting boring stuff in the first notebook, i did not work too much today, maybe because it's sunday xd

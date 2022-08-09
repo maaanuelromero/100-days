@@ -33,3 +33,8 @@ Plotting boring stuff in the first notebook, i did not work too much today, mayb
 ### D8
 
 I came back to school, so i did some linear regressions(again) at a very boring class xd
+
+### D9
+
+Today i reviewed something about an old project, updates coming soon
+

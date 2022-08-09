@@ -29,3 +29,7 @@ I noticed that my function won't work because of instagram XD, so I started with
 ### D7
 
 Plotting boring stuff in the first notebook, i did not work too much today, maybe because it's sunday xd
+
+### D8
+
+I came back to school, so i did some linear regressions(again) at a very boring class xd

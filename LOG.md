@@ -38,3 +38,6 @@ I came back to school, so i did some linear regressions(again) at a very boring 
 
 Today i reviewed something about an old project, updates coming soon
 
+### D10
+
+I create the ortools notebook, im planning to upload a code to EC2

@@ -41,3 +41,9 @@ Today i reviewed something about an old project, updates coming soon
 ### D10
 
 I create the ortools notebook, im planning to upload a code to EC2
+
+### D11
+
+I created a function that does a linear regression
+
+

@@ -46,4 +46,9 @@ I create the ortools notebook, im planning to upload a code to EC2
 
 I created a function that does a linear regression
 
+### D12
+
+Today i started creating a SPAM classifier, soon i will finish it
+
+
 

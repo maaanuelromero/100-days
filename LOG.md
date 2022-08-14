@@ -50,7 +50,10 @@ I created a function that does a linear regression
 
 Today i started creating a SPAM classifier, soon i will finish it
 
-## D13 
+## D13
 
 I continued with the naive bayes, which is going to help me for the spam classifier
 
+## D14
+
+Having a little progress with the classifier, i hope i finish it by tomorrow, or today :)

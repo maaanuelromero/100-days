@@ -57,3 +57,7 @@ I continued with the naive bayes, which is going to help me for the spam classif
 ## D14
 
 Having a little progress with the classifier, i hope i finish it by tomorrow, or today :)
+
+## D15
+
+I kinda finished the classifier and also coded a function to calculate a linear multiple regression, without scikit learn obviously

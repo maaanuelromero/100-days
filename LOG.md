@@ -61,3 +61,7 @@ Having a little progress with the classifier, i hope i finish it by tomorrow, or
 ## D15
 
 I kinda finished the classifier and also coded a function to calculate a linear multiple regression, without scikit learn obviously
+
+## D16
+
+Started to analyze this dataset: http://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records# , soon i will publish my insights here

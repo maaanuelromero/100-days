@@ -65,3 +65,7 @@ I kinda finished the classifier and also coded a function to calculate a linear 
 ## D16
 
 Started to analyze this dataset: http://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records# , soon i will publish my insights here
+
+## D17
+
+I did a PCA analysis to some dataset i found, also realized some plots for an scholar activity

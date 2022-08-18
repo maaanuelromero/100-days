@@ -69,3 +69,7 @@ Started to analyze this dataset: http://archive.ics.uci.edu/ml/datasets/Heart+fa
 ## D17
 
 I did a PCA analysis to some dataset i found, also realized some plots for an scholar activity
+
+## D18
+
+I worked with Amazon Polly today, i also did some things for school

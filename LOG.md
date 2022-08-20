@@ -73,3 +73,7 @@ I did a PCA analysis to some dataset i found, also realized some plots for an sc
 ## D18
 
 I worked with Amazon Polly today, i also did some things for school
+
+## D19
+
+I am coding a bayesian network for medical diagnosis...

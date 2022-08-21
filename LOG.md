@@ -64,7 +64,7 @@ I kinda finished the classifier and also coded a function to calculate a linear 
 
 ## D16
 
-Started to analyze this dataset: http://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records# , soon i will publish my insights here
+Started to analyze this dataset: [](http://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical)+records# , soon i will publish my insights here
 
 ## D17
 
@@ -77,3 +77,7 @@ I worked with Amazon Polly today, i also did some things for school
 ## D19
 
 I am coding a bayesian network for medical diagnosis...
+
+## D20
+
+Beginning to understand PCA...

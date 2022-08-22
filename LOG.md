@@ -81,3 +81,7 @@ I am coding a bayesian network for medical diagnosis...
 ## D20
 
 Beginning to understand PCA...
+
+## D21
+
+Today i began with a school project

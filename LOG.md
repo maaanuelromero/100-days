@@ -85,3 +85,7 @@ Beginning to understand PCA...
 ## D21
 
 Today i began with a school project
+
+## D22
+
+Continued with the project, i did some updates to my classifier, (not here but done in other directory)

@@ -93,3 +93,7 @@ Continued with the project, i did some updates to my classifier, (not here but d
 ## D23
 
 I almost forgot to publish my changes, today i improved the bayesian network
+
+## D24
+
+Bayesian network done, i just changed the dataset and im all set for a new challenge
